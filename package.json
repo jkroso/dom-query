@@ -1,0 +1,28 @@
+{
+  "name": "dom-query",
+  "version": "0.1.0",
+  "description": "Utilities for selecting DOM elements",
+  "main": "src/index.js",
+  "dependencies": {
+    "unique-selector": "https://github.com/ericclemmons/unique-selector/tarball/master"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "bigfile": "*",
+    "sourcegraph": "*"
+  },
+  "scripts" : {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jkroso/dom-query.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkroso/dom-query/issues"
+  },
+  "keywords": ["dom","query","querySelector","querySelectorAll"],
+  "author": "Jakeb Rosoman",
+  "license": "MIT"
+}

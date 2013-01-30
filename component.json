@@ -1,0 +1,16 @@
+{
+  "name": "dom-query",
+  "repo": "jkroso/dom-query",
+  "description": "Utilities for selecting DOM elements",
+  "version": "0.1.0",
+  "keywords": ["dom","query","querySelector","querySelectorAll"],
+  "dependencies": {
+    "ericclemmons/unique-selector": "*"
+  },
+  "main": "src/index.js",
+  "scripts": [
+	  "src/index.js"
+  ],
+  "styles":[],
+  "license": "MIT"
+}
